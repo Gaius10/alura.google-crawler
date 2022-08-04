@@ -5,7 +5,7 @@
 
 *My certificate, issued by Alura:*
 
-<iframe src="https://cursos.alura.com.br/user/ccaioc-correa/course/refatoracao-php-boas-praticas-codigo/certificate"></iframe>
+![Meu certificado](certificate.png)
 
 *Project description:*
 
