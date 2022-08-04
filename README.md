@@ -3,6 +3,12 @@
 > This is a study-made project based on the one available
 > [here](https://github.com/CViniciusSDias/google-crawler/blob/master/README.md)
 
+*My certificate, issued by Alura:*
+
+<iframe src="https://cursos.alura.com.br/user/ccaioc-correa/course/refatoracao-php-boas-praticas-codigo/certificate"></iframe>
+
+*Project description:*
+
 A simple Crawler for getting Google results.
 
 This component can be used to retrieve the 100 first results for a search term.
